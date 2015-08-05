@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Exchange\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\Exchange\Documents\GitHub\recyclervolley\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-c60705ca9c312f4ef89d347813b2b02f41edc4cd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Exchange\Documents\GitHub\recyclervolley\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\Exchange\Documents\GitHub\recyclervolley\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-fae546ae6764369f3de345e8910fe37949a19c1d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Exchange\Documents\GitHub\recyclervolley\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\Exchange\Documents\GitHub\recyclervolley\app\build\intermediates\pre-dexed\debug\classes-ce4c83dff09aeeb1fdf4aa61574265bcc91e61b3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Exchange\Documents\GitHub\recyclervolley\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e0b0c35d02308b270015a74cada4887e2e49b889">
+        <dex dex="C:\Users\Exchange\Documents\GitHub\recyclervolley\app\build\intermediates\pre-dexed\debug\classes-130e420da3fc5b53ef577c66cd6a79c9680136a5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Exchange\Documents\GitHub\recyclervolley\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\Exchange\Documents\GitHub\recyclervolley\app\build\intermediates\pre-dexed\debug\classes-8b4caa8b7bb344c9fba1472cb4ff70b01bd1e7eb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Exchange\Documents\GitHub\recyclervolley\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="22886d910315028a2b34b1ba068c265534ade87a">
+        <dex dex="C:\Users\Exchange\Documents\GitHub\recyclervolley\app\build\intermediates\pre-dexed\debug\classes-6f54a25fb8c07594f366fbc108247cf6bbe69254.jar" />
+    </item>
+
+</items>
